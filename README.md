@@ -3,8 +3,4 @@ All about tool windows on the IntelliJ Platform
 
 Illustrates various IntelliJ, Swing, and general Java things
 
-Updated on Win10HPE VM
-
-Updated on Velo
-
-updated on velo AGAIN! and again and again!!!
+**Updated on forked repo by broadmoor**
